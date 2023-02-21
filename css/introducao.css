@@ -45,18 +45,13 @@
   }
 
   .introducao h1 {
-    font-size: 2.5rem;
+    font-size: 2rem;
   }
 
   .introducao h1::before {
     width: 30px;
     height: 10px;
     left: 0px;
-  }
-
-  .introducao img {
-    max-width: 60%;
-    justify-self: center;
   }
 
   .introducao p {
